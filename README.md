@@ -10,11 +10,11 @@ This repository contains five simple yet useful programs written in Bash to prac
 
 ## Programs Overview
 This repository consists of the following Bash scripts:
-1. [questionnaire.sh](#questionnaire.sh): Interactively asks the user for their name, location, and favorite coding website, then provides a customized response.
-2. [countdown.sh](#countdown.sh): Takes a positive integer as an argument and counts down to zero with a 1-second delay between numbers.
-3. [bingo.sh](#bingo.sh): Generates a random Bingo number (between 1 and 75) and announces the corresponding Bingo column (B, I, N, G, O).
-4. [fortune.sh](#fortune.sh): Acts as a fortune teller by giving random responses to a yes/no question provided by the user.
-5. [five.sh](#five.sh): A meta-script that runs all four of the above scripts in sequence.
+1. [questionnaire.sh](#1-questionnairesh): Interactively asks the user for their name, location, and favorite coding website, then provides a customized response.
+2. [countdown.sh](#2-countdownsh): Takes a positive integer as an argument and counts down to zero with a 1-second delay between numbers.
+3. [bingo.sh](#3-bingosh): Generates a random Bingo number (between 1 and 75) and announces the corresponding Bingo column (B, I, N, G, O).
+4. [fortune.sh](#4-fortunesh): Acts as a fortune teller by giving random responses to a yes/no question provided by the user.
+5. [five.sh](#5-fivesh): A meta-script that runs all four of the above scripts in sequence.
 
 ## How to Use
 1. Clone the repository:<br>
