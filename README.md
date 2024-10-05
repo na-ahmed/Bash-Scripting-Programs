@@ -18,9 +18,9 @@ This repository consists of the following Bash scripts:
 
 ## How to Use
 1. Clone the repository:<br>
-   `git clone https://github.com/na-ahmed/Programs-using-Bash-scripting.git`
+   `git clone https://github.com/na-ahmed/Bash-Scripting-Programs.git`
 2. Navigate to the repository directory:<br>
-   `cd Programs-using-Bash-scripting`
+   `cd Bash-Scripting-Programs`
 3. Make the scripts executable:<br>
    `chmod +x *.sh`
 4. Run any of the individual scripts:<br>
